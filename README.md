@@ -1,4 +1,5 @@
-### Hi there
+### Hello World
+A random guy who does random stuff
 
 <!--
 **Equinox134/Equinox134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
